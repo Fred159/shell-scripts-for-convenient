@@ -1,0 +1,17 @@
+* change file into executable shell with " chmod 777 xxxxx.sh"
+* files should be install
+bakc up ver1
+only with nvidia driver and ubuntu
+(no cuda and cuddn)
+
+
+back up ver2
+* cuda 9.0, cudnn 7 for cuda 9.0
+* darknet yolo3
+* robotis open manipulator 
+* arduino
+* ros
+* codeblocks
+
+
+
