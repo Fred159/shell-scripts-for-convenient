@@ -14,4 +14,6 @@ But I think maybe it will help to some peolple who like me
 * arduino IDE
 
 Files are not well documented, but some of messy steps, I write appropriate solution as a comment or a link. 
-* I hope it can help you~
+
+
+I hope it can help you~
